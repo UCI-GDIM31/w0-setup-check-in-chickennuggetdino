@@ -3,7 +3,7 @@
 
 This is the first GDIM31 assignment! This is not a test - just a way to make sure your computer setup is working for GitHub and to get some knowledge about your prior experience. There aren't correct answers for this so please do not be concerned about your grade when filling this out honestly!
 
-## Introduction
+## Introduction 
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
