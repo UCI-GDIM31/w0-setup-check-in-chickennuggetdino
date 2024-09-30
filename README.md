@@ -9,14 +9,17 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [X] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+   I am hoping to get basic coding skills needed for programming games as well as get a better understanding of unity's features.
+   
+5. What, if anything, are you nervous about for this class?
+   Working in groups.
 
 ## Prior Experience
 
@@ -25,10 +28,12 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
-
-2. Game development (any engine)
-
-3. Unity
+    Basic python, java and java script from ap cs, beginner in C#.
+   
+3. Game development (any engine)
+    Code.org and unity.
+4. Unity
+   Experimented with it and started following tutorials.
 
 ### Programming & Game Development Concepts
 
@@ -40,15 +45,15 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
-
+    Description of the process of coding or comments needed to guide collaborators on the project.
 2. Scope management
-
+    The organzation of code in chunks, some data can't be reached out of the scope. 
 3. Iteration
-
+    The process of repeating a set code. 
 4. Object-Oriented programming
-
+    Programming that uses objects to store data? 
 5. Model-View-Controller architecture
-
+    N/A
 ## Complete!
 
 You've completed your first homework assignment! Commit this file and push it to GitHub. You should be able to see that it's been submitted properly on the Github Classroom page or on your assignment repository.
